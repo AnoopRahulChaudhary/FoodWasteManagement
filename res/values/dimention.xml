@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cornerRadius">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="bottomMargin">30dp</dimen>
+    <!--textView-->
+    <dimen name="textViewLargeSize">50dp</dimen>
+    <dimen name="textViewMediumSize">30dp</dimen>
+
+    <!--images dim-->
+    <dimen name="doveWidth">30dp</dimen>
+    <dimen name="doveHeight">30dp</dimen>
+
+    <!--button-->
+    <dimen name="buttonWidth">300dp</dimen>
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="buttonTextPadding">20dp</dimen>
+    <dimen name="backButtonWidth">50dp</dimen>
+    <dimen name="backButtonHeight">50dp</dimen>
+
+    <!--edit text -->
+    <dimen name="editTextHeight">50dp</dimen>
+    <dimen name="editTextWidth">300dp</dimen>
+
+    <!--ImageView-->
+    <dimen name="loginImageWidth">300dp</dimen>
+    <dimen name="loginImageHeight">50dp</dimen>
+</resources>

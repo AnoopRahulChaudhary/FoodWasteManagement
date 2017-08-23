@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodWasteManagement</string>
+
+    <!--button-->
+    <string name="buttonTextGuestLogin">मेहमान लॉगइन करें</string>
+    <string name="buttonTextAgentLogin">एजेंट लॉगिन</string>
+
+    <!--TextView-->
+    <string name="textViewTextHungry">Hungry</string>
+    <string name="textViewTextFoodWasteManagement">खाद्य अपशिष्ट प्रबंधन</string>
+    <string name="textViewTextFoodYouWasteIsAnotherPersonMeal">Food you waste is another person meal</string>
+    <string name="textViewTextForEmergencyContactUs">आपातकाल के लिए हमसे संपर्क करें</string>
+    <string name="textViewTextFeelFreeToContactUs">हमें संपर्क करने के लिए स्वतंत्र महसूस करें</string>
+    <string name="textViewTextGuestLogin">मेहमान लॉगइन करें</string>
+    <string name="textViewTextAgentLogin">एजेंट लॉगिन</string>
+    <string name="textViewTextNewUser">नया उपयोगकर्ता ?</string>
+    <string name="textViewTextRegistration">पंजीकरण</string>
+    <string name="textViewTextYourDetails">आपका विवरण</string>
+    <string name="textViewTextSearchForFoodAvailability">भोजन की उपलब्धता के लिए खोजें</string>
+
+
+
+    <!--EditText-->
+    <string name="editTextHintEnterUserName">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="editTextHintEnterPassword">पास वर्ड दर्ज करें</string>
+    <string name="editTextHintEnterYourName">अपना नाम दर्ज करें</string>
+    <string name="editTextHintEnterYourMailId">अपना मेल आईडी दर्ज करें</string>
+    <string name="editTextHintEnterMobileNumber">मोबाइल नंबर दर्ज करें</string>
+    <string name="editTextHintEnterTheLocality">इलाके दर्ज करें</string>
+    <string name="editTextHintAmountOfFoodAvailable">उपलब्ध भोजन की मात्रा</string>
+    <string name="editTextHintTypeOFFood">भोजन का प्रकार</string>
+</resources>

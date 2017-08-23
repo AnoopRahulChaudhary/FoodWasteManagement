@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <TextView
+        android:id="@+id/submitFoodDetailsByGuestTextViewTextWelcomeGuest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:textSize="@dimen/textViewLargeSize"
+        android:layout_margin="@dimen/margin"
+        android:layout_gravity="center"/>
+    <EditText
+        android:id="@+id/submitFoodDetailsByGuestEditTextUserLocality"
+        android:layout_width="@dimen/editTextWidth"
+        android:layout_height="@dimen/editTextHeight"
+        android:background="@drawable/edit_text_shape"
+        android:hint="@string/editTextHintEnterTheLocality"
+        android:inputType="text"
+        android:layout_gravity="center"
+        android:padding="@dimen/padding"
+        android:layout_marginBottom="@dimen/bottomMargin"/>
+    <EditText
+        android:id="@+id/submitFoodDetailsByGuestEditTextAmountOfFoodAvailable"
+        android:layout_width="@dimen/editTextWidth"
+        android:layout_height="@dimen/editTextHeight"
+        android:background="@drawable/edit_text_shape"
+        android:hint="@string/editTextHintAmountOfFoodAvailable"
+        android:inputType="text"
+        android:layout_gravity="center"
+        android:padding="@dimen/padding"
+        android:layout_marginBottom="@dimen/bottomMargin"/>
+    <EditText
+        android:id="@+id/submitFoodDetailsByGuestEditTextTypeOfFood"
+        android:layout_width="@dimen/editTextWidth"
+        android:layout_height="@dimen/editTextHeight"
+        android:background="@drawable/edit_text_shape"
+        android:hint="@string/editTextHintTypeOFFood"
+        android:inputType="text"
+        android:layout_gravity="center"
+        android:padding="@dimen/padding"
+        android:layout_marginBottom="@dimen/bottomMargin"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/submit"
+        android:layout_gravity="center"
+        android:onClick="submitFoodDetailsByGuest"/>
+</LinearLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FoodWasteManagement</string>
+
+    <!--button-->
+    <string name="buttonTextGuestLogin">Guest Login</string>
+    <string name="buttonTextAgentLogin">Agent Login</string>
+    <string name="buttonTextCheckForFood">Check Food</string>
+    <string name="buttonTextSubmitFoodDetail">Submit Food detail</string>
+    <string name="buttonTextLogout">Logout</string>
+
+    <!--TextView-->
+    <string name="textViewTextHungry">Hungry</string>
+    <string name="textViewTextFoodWasteManagement">Food Waste Management</string>
+    <string name="textViewTextFoodYouWasteIsAnotherPersonMeal">Food you waste is another person meal</string>
+    <string name="textViewTextForEmergencyContactUs">For emergency contact us</string>
+    <string name="textViewTextFeelFreeToContactUs">Feel free to contact us</string>
+    <string name="textViewTextGuestLogin">Guest Login</string>
+    <string name="textViewTextAgentLogin">Agent Login</string>
+    <string name="textViewTextNewUser">New User ?</string>
+    <string name="textViewTextRegistration">Registration</string>
+    <string name="textViewTextYourDetails">Your Details</string>
+    <string name="textViewTextSearchForFoodAvailability">Search for food availability</string>
+
+
+    <!--EditText-->
+    <string name="editTextHintEnterUserName">Enter UserName</string>
+    <string name="editTextHintEnterPassword">Enter Password</string>
+    <string name="editTextHintEnterYourName">Enter your name</string>
+    <string name="editTextHintEnterYourMailId">Enter your mail id</string>
+    <string name="editTextHintEnterMobileNumber">Enter mobile number</string>
+    <string name="editTextHintEnterTheLocality">Enter the locality</string>
+    <string name="editTextHintAmountOfFoodAvailable">Amount of food available</string>
+    <string name="editTextHintTypeOFFood">Type of food</string>
+</resources>
